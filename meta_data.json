@@ -1,0 +1,16 @@
+{
+    "categories": {
+        "0": "data (things)",
+        "1": "technical",
+        "2": "productivity",
+        "3": "customer support"
+    },
+    "demo_page": "https://json-viewer.bubbleapps.io/version-test",
+    "description": "Provide some JSON, get a nice looking collapsible tree view.\n\n✅ Cool\n✅ Useful\n✅ Pure JS\n\nTo receive special offers and important updates please visit: https://zeroqo.de/updates\n\nNEED HELP BUILDING A CUSTOM APPLICATION?\nhttps://dev.zeroqode.com\n\nSUPERCHARGE YOUR APP WITH ZEROQODE PLUGINS\nhttps://zeroqode.com/plugins\n\nQUESTIONS OR NEED HELP?\nhttps://forum.zeroqode.com",
+    "image": "//meta-q.cdn.bubble.io/f1706906658839x860074717612184300/JSON%20Viewer.webp",
+    "license": "open_source",
+    "link": "https://zeroqode.com/plugins",
+    "name": "JSON Viewer",
+    "plugin_instructions": "The plugin uses a normal text field and transforms it into a JSON structure. Just pass some text with a correct JSON format and it will show the result in a nice viewer.",
+    "sa_node_version": 18
+}

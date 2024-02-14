@@ -1,0 +1,12 @@
+{
+    "assets": {
+        "AAH": {
+            "name": "icon",
+            "url": "//meta-q.cdn.bubble.io/f1707730940466x420592713248394200/json_Viewer-removebg-preview.png"
+        }
+    },
+    "dependencies": {
+        "plugin_api_version": "4",
+        "use_jquery": true
+    }
+}
